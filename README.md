@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chunlau99
-- 👀 I’m interested in development 
-- 🌱 I’m currently learning Power Platform / Power Automate / D365 
+- 👋 Hi, I’m @Chunlau99 from Hong Kong 
+- 👀 I’m interested in development & Power Platform Apps devleopment 
+- 🌱 I’m currently learning Power Platform / Power Automate 
 - 💞️ I’m looking to collaborate on COE 
-- 📫 How to reach me email me 
+- 📫 How to reach me email me chunlau99@gmail.com
 
 <!---
 Chunlau99/Chunlau99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
