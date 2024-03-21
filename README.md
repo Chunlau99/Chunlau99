@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Chunlau99 from Hong Kong 
-- 👀 I’m interested in development & Power Platform Apps devleopment 
-- 🌱 I’m currently learning Power Platform / Power Automate 
+- 👋 Hi, I’m @Chunlau99 from Hong Kong SAR
+- 👀 I’m interested in development & Power Platform Apps / Power Automate flow / Power BI 
+- 🌱 I’m currently learning Power Platform / Power Automate / Copilot generative AI features / 
 - 💞️ I’m looking to collaborate on COE 
 - 📫 How to reach me email me chunlau99@gmail.com
 
