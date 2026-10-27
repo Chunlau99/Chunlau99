@@ -4,7 +4,7 @@ If you’d like to delve deeper into any specific area, feel free to ask! 🚀
 - 🌱 I’m currently learning Power Platform / Power Automate / Copilot generative AI features / 
 - 💞️ I’m looking to collaborate on COE 
 - 📫 How to reach me email me chunlau99@gmail.com
-- Master’s Degree in Artificial Intelligence | MSc in Artificial Intelligence at the University of Southampton, UK  email cssl1e26@southampton.ac.uk.
+- Master’s Degree in Artificial Intelligence | MSc in Artificial Intelligence at the University of Southampton, UK   
 
 <!---
 Chunlau99/Chunlau99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
